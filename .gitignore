@@ -1,3 +1,6 @@
 venv/
 temp_upload/
 credentials.json
+test/
+train/
+mici.h5
